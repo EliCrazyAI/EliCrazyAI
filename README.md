@@ -3,6 +3,11 @@
 </p>
 
 
+<p align="center">
+  <img src="https://media.tenor.com/NFHWeJbI1d4AAAAC/lisa-simpson-dance.gif" alt="Lisa Simpson Dancing" width="300"/>
+</p>
+
+
 # Hi, I'm Elizaveta
 
 🚀 AI Strategist | Python Learner | Data Workflow Designer
