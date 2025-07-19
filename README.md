@@ -3,6 +3,7 @@
 </p>
 
 
+<p align="center"><em>Welcome to my GitHub — where strategy meets Python 🧠✨</em></p>
 
 
 # Hi, I'm Elizaveta
