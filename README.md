@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <img src="..." alt="Welcome GIF" width="300"/>
+</p>
 
-<!--
-**EliCrazyAI/EliCrazyAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Elizaveta
 
-Here are some ideas to get you started:
+🚀 AI Strategist | Python Learner | Data Workflow Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm exploring the intersection of technical fluency and strategic leadership — building projects that blend clean code with scalable AI thinking.
+
+---
+
+## 🧠 What I Do
+
+- 🔍 Analyze patterns in data using Python, NumPy, and Pandas
+- 📊 Create visual stories with Matplotlib and Seaborn
+- 🧩 Design beginner-friendly AI workflows and readiness checklists
+- 🛠️ Troubleshoot scripts and optimize learning systems
+- 🧠 Explore TensorFlow and machine learning fundamentals
+- Langchain/Langgraph flows
+
+---
+
+## 🌱 Currently Learning
+
+- TensorFlow for ML workflows  
+- GitHub portfolio building  
+- Strategic communication via LinkedIn
+
+---
+
+## 📫 Connect with Me
+
+- https://www.linkedin.com/in/elizavetavatlina/
+
+---
+
+> “I believe in designing systems that think clearly — and communicate even better.”
