@@ -1,11 +1,7 @@
 <p align="center">
-  <img src="https://media.tenor.com/NFHWeJbI1d4AAAAC/lisa-simpson-dance.gif" alt="Lisa Simpson Dancing" width="300"/>
+  <img src="https://media.tenor.com/7100543934835455173/lisa-simpson-lisa-dancing-dance-the-simpsons.gif" alt="Lisa Simpson Dancing" width="300"/>
 </p>
 
-
-<p align="center">
-  <img src="https://media.tenor.com/NFHWeJbI1d4AAAAC/lisa-simpson-dance.gif" alt="Lisa Simpson Dancing" width="300"/>
-</p>
 
 
 # Hi, I'm Elizaveta
