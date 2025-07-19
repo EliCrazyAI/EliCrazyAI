@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="..." alt="Welcome GIF" width="300"/>
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Welcome GIF" width="300"/>
 </p>
+
 
 # Hi, I'm Elizaveta
 
