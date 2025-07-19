@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="300" alt="Lisa Simpson Welcome"/>
+<p align="center">
+  <img src="https://media.tenor.com/0XkZbJvYJZMAAAAC/hi-how-are-you-simpsons.gif" alt="Lisa Simpson waving Hi" width="300"/>
+</p>
+
 
 
 
