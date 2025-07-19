@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2e/3e/9e/2e3e9e2b6c7c9f8f0f3b9f3d3b3f3f3f.gif" alt="Lisa Simpson Dancing" width="300"/>
+  <img src="https://i.imgur.com/1zQZ1zU.gif" alt="Lisa Simpson Dancing" width="300"/>
 </p>
 
 
