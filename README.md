@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://i.imgur.com/NWjGDwD.jpg" alt="Lisa Simpson Dancing" width="300"/>
-</p>
 
+![lisa-simpson-dancing](https://github.com/user-attachments/assets/7ac99ef8-b2a6-4b04-ab47-4ee0d5d22824)
 
 # Hi, I'm Elizaveta
 
