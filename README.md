@@ -1,6 +1,39 @@
 <p align="center">
-  <img src="https://media.tenor.com/0XkZbJvYJZMAAAAC/hi-how-are-you-simpsons.gif" alt="Lisa Simpson waving Hi" width="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJFJnglM54LceX6ZWm7qZvYdJZ7lDSllvTw&s" alt="Lisa Simpson Welcome" width="300"/>
 </p>
+
+# 👋 Hi, I'm Elizaveta
+
+🧠 AI Integration Strategist | Python Learner | Data Workflow Designer
+
+Welcome to my GitHub — where curiosity meets clean code. I’m exploring how technical fluency and strategic thinking come together to build scalable, beginner-friendly AI workflows.
+
+---
+
+## 🔍 What I Do
+
+- 🧮 Analyze patterns using Python, NumPy, and Pandas  
+- 📊 Create visual stories with Matplotlib and Seaborn  
+- 🧩 Design AI adoption frameworks and readiness checklists  
+- 🛠️ Troubleshoot scripts and optimize learning systems  
+- 🌱 Explore TensorFlow and machine learning fundamentals
+
+---
+
+## 📁 Featured Projects
+
+- `Housing Price Analyzer`  
+  *Feature scaling + regression with NumPy and Scikit-learn*
+
+- `Note Organizer with Python`  
+  *Scripted system for importing and structuring Mac notes*
+
+---
+
+## 🌱 Currently Learning
+
+- TensorFlow for ML workflows  
+- GitHub portfolio
 
 
 <p align="center"><em>Welcome to my GitHub — where strategy meets Python 🧠✨</em></p>
