@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/1zQZ1zU.gif" alt="Lisa Simpson Dancing" width="300"/>
+  <img src="https://www.deviantart.com/mrtoonlover83/art/Lisa-Simpson-dancing-vector-905369186" alt="Lisa Simpson Dancing" width="300"/>
 </p>
 
 
