@@ -4,7 +4,6 @@
 
 
 
-
 # Hi, I'm Elizaveta
 
 🚀 AI Strategist | Python Learner | Data Workflow Designer
