@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJFJnglM54LceX6ZWm7qZvYdJZ7lDSllvTw&s" alt="Lisa Simpson Welcome" width="300"/>
+  <img src="https://media.tenor.com/0XkZbJvYJZMAAAAC/hi-how-are-you-simpsons.gif" alt="Lisa Simpson Dancing" width="300"/>
 </p>
-
 # 👋 Hi, I'm Elizaveta
 
 🧠 AI Integration Strategist | Python Learner | Data Workflow Designer
