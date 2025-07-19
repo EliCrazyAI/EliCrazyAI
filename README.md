@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://www.deviantart.com/mrtoonlover83/art/Lisa-Simpson-dancing-vector-905369186" alt="Lisa Simpson Dancing" width="300"/>
+  <img src="https://i.imgur.com/NWjGDwD.jpg" alt="Lisa Simpson Dancing" width="300"/>
 </p>
-
 
 
 # Hi, I'm Elizaveta
